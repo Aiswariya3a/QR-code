@@ -45,19 +45,7 @@ Working on this project helped me solidify my understanding of responsive design
 - **CSS Flexbox**: Using Flexbox for aligning items in a clean and responsive manner.
 - **Google Fonts**: Integrating custom fonts from Google Fonts for better typography.
 
-Here are some code snippets demonstrating parts of the project I'm proud of:
-
-```html
-<div class="card">
-  <img src="images/image-qr-code.png" alt="QR Code" class="qr-code" />
-  <div class="heading">
-    Improve your front-end skills by building projects
-  </div>
-  <div class="subheading">
-    Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
-  </div>
-</div>
-```
+Here are the code snippet demonstrating parts of the project I'm proud of:
 
 ```css
 html,
@@ -105,15 +93,6 @@ body {
   color: hsl(220, 15%, 55%);
   padding: 17px;
 }
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
 ```
 
 ### Continued development
@@ -131,13 +110,8 @@ In future projects, I want to focus on:
 - [Google Fonts](https://fonts.google.com/) - For integrating custom fonts.
 
 ## Author
-
-- Website - [Your Name](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Aiswariya3a](https://www.frontendmentor.io/profile/Aiswariya3a)
 
 ## Acknowledgments
 
 Special thanks to the Frontend Mentor community for their support and feedback. This project was a great learning experience, and the community's input was invaluable.
-
-If you have any questions or feedback, feel free to reach out!
